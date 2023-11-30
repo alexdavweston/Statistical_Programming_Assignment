@@ -2,6 +2,8 @@
 
 Hello, thank you for grading my assignment.
 
+The R, code that I used can be found as the GSPH3_ECON0128.R file in the folder
+
 In order to properly load up the data please take these steps.
 
 For the travel time data, please insert the pathname for the Travel_Time_to_Work.csv file in the mobility_data <- read.csv("pathname") function in line 14
